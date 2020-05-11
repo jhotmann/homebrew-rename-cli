@@ -1,9 +1,7 @@
 # rename-cli
 
 ## How do I install these formulae?
-`brew install jhotmann/rename-cli`
-
-Or `brew tap jhotmann/rename-cli` and then `brew install rename-cli`.
+`brew tap jhotmann/rename-cli` and then `brew install rename-cli`.
 
 Or install via URL (which will not receive updates):
 
